@@ -1,0 +1,1132 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXCopyFilesBuildPhase section */
+		831296BF1FC4C0C3006A824D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5A41602B40429C1D0323D38A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41603E3E6495AA3561F711 /* boot_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = boot_win.icns; sourceTree = "<group>"; };
+		5A4160497F4358580446973D /* GenericUSBXHCI */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GenericUSBXHCI; sourceTree = "<group>"; };
+		5A41604D966B934A6BA3C922 /* vol_recovery.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_recovery.icns; sourceTree = "<group>"; };
+		5A41604F48512E7E28E3D6BC /* pointer-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-black.png"; sourceTree = "<group>"; };
+		5A4160671BFFD5C583DAD4EE /* os_mac.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_mac.icns; sourceTree = "<group>"; };
+		5A41606BA5A004A5D1502163 /* cd_mac_leo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_mac_leo.icns; sourceTree = "<group>"; };
+		5A4160898624AD3F1B5A98CE /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		5A41608A73208FAC0B58D203 /* scroll_fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scroll_fill.png; sourceTree = "<group>"; };
+		5A4160BF362432875CC43DEF /* ECDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = ECDT.aml; sourceTree = "<group>"; };
+		5A4160D82FE56CE360707630 /* logo_main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_main.png; sourceTree = "<group>"; };
+		5A4160DCA2C79DE36682B7B3 /* os_linux.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_linux.icns; sourceTree = "<group>"; };
+		5A4160F6B727EBB927DA8E33 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41611A0F8F6416839CFC68 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		5A416123CBC7453E9E880FA6 /* os_clover.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_clover.icns; sourceTree = "<group>"; };
+		5A416131D8C54883A75675A8 /* en */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text; name = en; path = InfoPlist.strings.txt; sourceTree = "<group>"; };
+		5A4161336D762AD5A38FF63E /* SSDT-0-DptfTabl.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-0-DptfTabl.aml"; sourceTree = "<group>"; };
+		5A416137325469185436632D /* bar_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_end.png; sourceTree = "<group>"; };
+		5A41613CED0EB83347178B7C /* func_help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_help.png; sourceTree = "<group>"; };
+		5A416150FD542A32671AFF14 /* VoodooPS2Mouse */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Mouse; sourceTree = "<group>"; };
+		5A41615612577DB75462B644 /* vol_internal.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal.icns; sourceTree = "<group>"; };
+		5A41617C85890CB8934E5278 /* MCFG.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = MCFG.aml; sourceTree = "<group>"; };
+		5A4161952ADC5E6CFE9EAA94 /* Selection_144px.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = Selection_144px.bmp; sourceTree = "<group>"; };
+		5A41619E2FE7E3C81B481656 /* DumpLog.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DumpLog.txt; sourceTree = "<group>"; };
+		5A4161C2E6C83B27CB8CD2A0 /* FACS.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FACS.aml; sourceTree = "<group>"; };
+		5A4161CF7CEBA9775CC18C6A /* config-sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = "config-sample.plist"; sourceTree = "<group>"; };
+		5A4161D1D41962D20FCAC8CE /* vol_external.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_external.icns; sourceTree = "<group>"; };
+		5A4161D2ACFBCF2E71BB897D /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
+		5A41621810710BEE26CBCEE7 /* VoodooPS2Controller */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Controller; sourceTree = "<group>"; };
+		5A41622DE0D8D683F85BA867 /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
+		5A4162356D55928709EB0C14 /* AppleUITheme-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleUITheme-64.efi"; sourceTree = "<group>"; };
+		5A4162517F5F8339BF4DACDD /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		5A41625F1B3741E01A600909 /* vol_internal_ext3.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ext3.icns; sourceTree = "<group>"; };
+		5A416288E640BE3161E11E83 /* up_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = up_button.png; sourceTree = "<group>"; };
+		5A41628FFCA717A4881F954B /* CLOVERX64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = CLOVERX64.efi; sourceTree = "<group>"; };
+		5A4162995D97598B2B569182 /* vol_internal_ntfs_XP7.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_XP7.icns; sourceTree = "<group>"; };
+		5A4162C0075DF1EF58B3DA7B /* os_fedora.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_fedora.icns; sourceTree = "<group>"; };
+		5A4162C7087B08DAB25FE8DA /* vol_netboot.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_netboot.icns; sourceTree = "<group>"; };
+		5A416305EB862251F36BB4EA /* os_legacy.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_legacy.icns; sourceTree = "<group>"; };
+		5A4163193BA15CA860A849CC /* bar_fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_fill.png; sourceTree = "<group>"; };
+		5A41635685A9284218BB97E1 /* os_mint.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_mint.icns; sourceTree = "<group>"; };
+		5A416363BE313DC076966627 /* scroll_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scroll_start.png; sourceTree = "<group>"; };
+		5A41637A434C3CE714C28BC1 /* os_hsierra.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_hsierra.icns; sourceTree = "<group>"; };
+		5A41639A3CA8E162527355EB /* en */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text; name = en; path = InfoPlist.strings.txt; sourceTree = "<group>"; };
+		5A4163A0CA3520EDA3CF4F66 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A4163A997B512985EDE6BD8 /* DataHubDxe-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "DataHubDxe-64.efi"; sourceTree = "<group>"; };
+		5A4163AD6E6C51F8F59479A7 /* os_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win.icns; sourceTree = "<group>"; };
+		5A4163C803064029C497091E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41641B1CF1EDD824AB7688 /* bar_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_start.png; sourceTree = "<group>"; };
+		5A41642A3798FAD81828A3D8 /* UEFI.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = UEFI.aml; sourceTree = "<group>"; };
+		5A41642B7D7DAA0BC8E01890 /* down_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = down_button.png; sourceTree = "<group>"; };
+		5A41644D034416C0C6B6C997 /* APIC.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = APIC.aml; sourceTree = "<group>"; };
+		5A4164661D8986F6AAE9C440 /* VoodooPS2Keyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Keyboard; sourceTree = "<group>"; };
+		5A416485ECE47D82B4428FAD /* os_netbsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_netbsd.icns; sourceTree = "<group>"; };
+		5A41649F0D9770D68441BABF /* SSDT-1-SaSsdt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-1-SaSsdt.aml"; sourceTree = "<group>"; };
+		5A4164A137B8889E2EF5C36C /* vol_internal_hfs.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_hfs.icns; sourceTree = "<group>"; };
+		5A4164AA76B96F50173E30A5 /* FakeSMC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FakeSMC; sourceTree = "<group>"; };
+		5A4164F2F351BFB36BE23E49 /* TPM2.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = TPM2.aml; sourceTree = "<group>"; };
+		5A4164F7837CACDBB00434B9 /* UEFI boot with Clover.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "UEFI boot with Clover.rtf"; sourceTree = "<group>"; };
+		5A4164F83BB1973088DB69EE /* os_openbsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_openbsd.icns; sourceTree = "<group>"; };
+		5A4165327D20B57E426173CB /* SSDT-2-CpuSsdt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-2-CpuSsdt.aml"; sourceTree = "<group>"; };
+		5A416558FB6F71018C621709 /* os_vista.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_vista.icns; sourceTree = "<group>"; };
+		5A41656FA1269F249ACA806B /* SSDT-x2_0-Cpu0Ist.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_0-Cpu0Ist.aml"; sourceTree = "<group>"; };
+		5A41659712B3C48318471769 /* FPDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FPDT.aml; sourceTree = "<group>"; };
+		5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-DiscreteSpoof.aml"; sourceTree = "<group>"; };
+		5A4165E1813C342DE237D0CB /* vol_internal_ntfs_31.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_31.icns; sourceTree = "<group>"; };
+		5A41662173B4286601F5EE56 /* os_leo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_leo.icns; sourceTree = "<group>"; };
+		5A416639FA61CD408AA6F6F1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416643BE187A02EA9C4DCA /* pointer-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-green.png"; sourceTree = "<group>"; };
+		5A41665405C89C4CA84CE4DD /* AtherosE2200Ethernet */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AtherosE2200Ethernet; sourceTree = "<group>"; };
+		5A41666BCFF01C7A64E1A147 /* func_options.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_options.png; sourceTree = "<group>"; };
+		5A416698376F4518ACA89DA1 /* config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = config.plist; sourceTree = "<group>"; };
+		5A4166AAF35961D7936A6433 /* XSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = XSDT.aml; sourceTree = "<group>"; };
+		5A4166BA83B0B9D60FC263E5 /* tool_shell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tool_shell.png; sourceTree = "<group>"; };
+		5A4166F2A3A672FB21ABDE4A /* RSDT-FACS.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "RSDT-FACS.aml"; sourceTree = "<group>"; };
+		5A416705DAFF3925D6E679E6 /* pointer-metal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-metal.png"; sourceTree = "<group>"; };
+		5A41670D7D296A7EA4E7FE0D /* DBG2.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DBG2.aml; sourceTree = "<group>"; };
+		5A4167225C4743EBFEFC4C76 /* theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = theme.plist; sourceTree = "<group>"; };
+		5A41673A9B3B33DDB5C94812 /* SSDT-4-SgUlt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-4-SgUlt.aml"; sourceTree = "<group>"; };
+		5A416745A8B41EBDA562AE4F /* theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = theme.plist; sourceTree = "<group>"; };
+		5A4167777320FB0E3CECD5CA /* boot_linux.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = boot_linux.icns; sourceTree = "<group>"; };
+		5A41677A2C8B88FB5DA38996 /* SSDT-3-sensrhub.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-3-sensrhub.aml"; sourceTree = "<group>"; };
+		5A4167A52FD7F36BDF4A73D7 /* func_shutdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_shutdown.png; sourceTree = "<group>"; };
+		5A4167AA341952E7EB3504DB /* Shell64U.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = Shell64U.efi; sourceTree = "<group>"; };
+		5A4167AA7E970462C5952E44 /* cd_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_win.icns; sourceTree = "<group>"; };
+		5A4167D45F9E0A653855E74F /* os_ecomstation.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_ecomstation.icns; sourceTree = "<group>"; };
+		5A4167E63E85D410CBFFD338 /* logo_metal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_metal.png; sourceTree = "<group>"; };
+		5A4167ED10E93823EA0E0C32 /* vol_optical.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_optical.icns; sourceTree = "<group>"; };
+		5A416817A669368A9D0A2B60 /* SSDT-x2_1-ApIst.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_1-ApIst.aml"; sourceTree = "<group>"; };
+		5A41683DF35F51D30565874B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41685F1ECCFA003D2BCB56 /* DBGP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DBGP.aml; sourceTree = "<group>"; };
+		5A4168632424353CAEBD5D84 /* AppleImageCodec-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleImageCodec-64.efi"; sourceTree = "<group>"; };
+		5A416898672E7BE3D24C9031 /* os_snow.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_snow.icns; sourceTree = "<group>"; };
+		5A4168F6A051613FC953C7BD /* OsxAptioFix2Drv-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "OsxAptioFix2Drv-64.efi"; sourceTree = "<group>"; };
+		5A4168FE0DA19C96CBEFFA6B /* SSDT-x2_3-ApCst.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_3-ApCst.aml"; sourceTree = "<group>"; };
+		5A416906B8D440064E17CEFE /* SSDT-x2_6-HwpLvt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_6-HwpLvt.aml"; sourceTree = "<group>"; };
+		5A4169195821E72604FA56EE /* AppleKeyAggregator-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleKeyAggregator-64.efi"; sourceTree = "<group>"; };
+		5A416919E2C91E2216C8B8DA /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		5A416922240F815A48C5FBC3 /* boot1f32-install.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "boot1f32-install.sh"; sourceTree = "<group>"; };
+		5A416933DB21CF563E0C18E9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416940A4C3ACD8A7F15E5D /* func_reset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_reset.png; sourceTree = "<group>"; };
+		5A4169692D8CC5B56D11B81F /* DSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DSDT.aml; sourceTree = "<group>"; };
+		5A4169A336A77273CBAAF917 /* LPIT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = LPIT.aml; sourceTree = "<group>"; };
+		5A4169A4D3579EA2825CCCE5 /* SSDT-x2_4-Cpu0Hwp.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_4-Cpu0Hwp.aml"; sourceTree = "<group>"; };
+		5A4169A88E3397BD46A71B35 /* pointer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pointer.png; sourceTree = "<group>"; };
+		5A4169BF8DE5473D518A0567 /* MSDM.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = MSDM.aml; sourceTree = "<group>"; };
+		5A4169CB2DD14422144A0616 /* FakePCIID */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FakePCIID; sourceTree = "<group>"; };
+		5A4169D7A14D7DCF127D29C4 /* os_sierra.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_sierra.icns; sourceTree = "<group>"; };
+		5A416A0B6E2488D901A960A8 /* RealtekRTL8111 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RealtekRTL8111; sourceTree = "<group>"; };
+		5A416A419F32CA17A86CABF7 /* scroll_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scroll_end.png; sourceTree = "<group>"; };
+		5A416A6062564ADAA5E2C864 /* SSDT-x2_5-ApHwp.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_5-ApHwp.aml"; sourceTree = "<group>"; };
+		5A416A6EA6A390C128642615 /* func_clover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_clover.png; sourceTree = "<group>"; };
+		5A416A8192EDED2ACA1C28BE /* os_tiger.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_tiger.icns; sourceTree = "<group>"; };
+		5A416AA510BBC5E1AD446A59 /* theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = theme.plist; sourceTree = "<group>"; };
+		5A416AB2F4BC104A7BDBA4D5 /* os_mav.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_mav.icns; sourceTree = "<group>"; };
+		5A416ACE3D33E3BB58D1A897 /* config-sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = "config-sample.plist"; sourceTree = "<group>"; };
+		5A416AE6A7E781DC8E2284DD /* WSMT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = WSMT.aml; sourceTree = "<group>"; };
+		5A416AF3F3D7398077B95883 /* OtherMac.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = OtherMac.icns; sourceTree = "<group>"; };
+		5A416B018BA902DA1ADE616B /* os_cougar.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_cougar.icns; sourceTree = "<group>"; };
+		5A416B20232ABCB18F03402D /* os_cap.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_cap.icns; sourceTree = "<group>"; };
+		5A416B2590E1674051F59130 /* VoodooPS2Trackpad */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Trackpad; sourceTree = "<group>"; };
+		5A416B2D68F7965BB293AECB /* VBoxHfs-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "VBoxHfs-64.efi"; sourceTree = "<group>"; };
+		5A416B2F0E05CDF06A60418F /* vol_firewire.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_firewire.icns; sourceTree = "<group>"; };
+		5A416B3CD90F5F99813CE84B /* BGRT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = BGRT.aml; sourceTree = "<group>"; };
+		5A416B4C0938A1D2C67D1536 /* Shell.inf */ = {isa = PBXFileReference; lastKnownFileType = file.inf; path = Shell.inf; sourceTree = "<group>"; };
+		5A416B6A3AA56A66897A20DE /* vol_internal_ntfs.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs.icns; sourceTree = "<group>"; };
+		5A416B6DE31FF8153A1107D1 /* SSDT-5-SgPch.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-5-SgPch.aml"; sourceTree = "<group>"; };
+		5A416B708D9A855CFE8C5579 /* apfs.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = apfs.efi; sourceTree = "<group>"; };
+		5A416B7529CE685075D47A3C /* selection_big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selection_big.png; sourceTree = "<group>"; };
+		5A416B92484951D6B2FF5F45 /* os_freedos.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_freedos.icns; sourceTree = "<group>"; };
+		5A416B9CFD96FF56E4AED794 /* os_yos.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_yos.icns; sourceTree = "<group>"; };
+		5A416BAD43E3B86538BB65F2 /* FSInject-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "FSInject-64.efi"; sourceTree = "<group>"; };
+		5A416BB8FB6241494C15D357 /* Shell64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = Shell64.efi; sourceTree = "<group>"; };
+		5A416BBCAD46AEA41A5CAE99 /* cd_mac_tiger.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_mac_tiger.icns; sourceTree = "<group>"; };
+		5A416BD790059C03E4350B39 /* FirmwareVolume-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "FirmwareVolume-64.efi"; sourceTree = "<group>"; };
+		5A416BDA13017256C89F131A /* FIDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FIDT.aml; sourceTree = "<group>"; };
+		5A416BE4E217D2FA4DDE949F /* os_winxp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_winxp.icns; sourceTree = "<group>"; };
+		5A416BF08E7DBA26640C00D1 /* os_lion.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_lion.icns; sourceTree = "<group>"; };
+		5A416C25E51E9C11864BC191 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		5A416C265BACF24D368FC8B8 /* HFSPlus.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = HFSPlus.efi; sourceTree = "<group>"; };
+		5A416C31D7832CD9EE6A11F5 /* FACP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FACP.aml; sourceTree = "<group>"; };
+		5A416C6213D32B9D97BBFAE6 /* SSDT-x2_2-Cpu0Cst.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_2-Cpu0Cst.aml"; sourceTree = "<group>"; };
+		5A416C7F4241148CA32A2354 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416C890A5FECA19F2A6D80 /* RSDP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = RSDP.aml; sourceTree = "<group>"; };
+		5A416C8D680BD660494060BE /* os_win8.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win8.icns; sourceTree = "<group>"; };
+		5A416CAFFB9E12E13E522466 /* HowToInstallOSX.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HowToInstallOSX.txt; sourceTree = "<group>"; };
+		5A416CCC6D0A324AC076FEEE /* bcfg.txt */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text; path = bcfg.txt; sourceTree = "<group>"; };
+		5A416CDF846FD0CF650635DD /* Shell32.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = Shell32.efi; sourceTree = "<group>"; };
+		5A416CEF62457BCC5154BB4B /* OsxFatBinaryDrv-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "OsxFatBinaryDrv-64.efi"; sourceTree = "<group>"; };
+		5A416CF00B85E1F4A3DBB4FD /* cd_mac_snow.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_mac_snow.icns; sourceTree = "<group>"; };
+		5A416D034D9C3400FD48BDB3 /* os_winvista.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_winvista.icns; sourceTree = "<group>"; };
+		5A416D0F0FE1FE0C3C32E52A /* Selection_64px.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = Selection_64px.bmp; sourceTree = "<group>"; };
+		5A416D4E05AF5EE6B5CAC8FF /* RSDT-FACP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "RSDT-FACP.aml"; sourceTree = "<group>"; };
+		5A416D4EA09A371E56DDBC63 /* vol_clover.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_clover.icns; sourceTree = "<group>"; };
+		5A416D92F5B856AB89BECE86 /* func_about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_about.png; sourceTree = "<group>"; };
+		5A416DAF27E497B700F2D2CA /* os_ubuntu.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_ubuntu.icns; sourceTree = "<group>"; };
+		5A416DEC678C05F9AD803E3D /* tool_shell.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = tool_shell.icns; sourceTree = "<group>"; };
+		5A416E05927B8BB086B5BE72 /* os_recovery.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_recovery.icns; sourceTree = "<group>"; };
+		5A416E1B8D4A05359EF6DDC6 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416E393DAA43829D860D20 /* bdmesg.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = bdmesg.efi; sourceTree = "<group>"; };
+		5A416E53ADD37941FCB62D99 /* RSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = RSDT.aml; sourceTree = "<group>"; };
+		5A416E5CF87527B4C34F65EE /* selection_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selection_small.png; sourceTree = "<group>"; };
+		5A416E5DCECC5ED01CE3A3FD /* os_suse.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_suse.icns; sourceTree = "<group>"; };
+		5A416E6197F7DE02137EC878 /* os_freebsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_freebsd.icns; sourceTree = "<group>"; };
+		5A416EA1CC83428C5F621762 /* osx.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = osx.icns; sourceTree = "<group>"; };
+		5A416ED27DD5A6058F78531E /* SMCHelper-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "SMCHelper-64.efi"; sourceTree = "<group>"; };
+		5A416F58DCD27E9DCC16C91D /* HPET.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = HPET.aml; sourceTree = "<group>"; };
+		5A416F805B0950A98B5848CF /* os_win7.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win7.icns; sourceTree = "<group>"; };
+		5A416F922565F08EEFA5AE2E /* HowToFixDsdt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HowToFixDsdt.txt; sourceTree = "<group>"; };
+		5A416FE12A3CCA141362AE33 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416FE7CDB2D2D96431CC54 /* os_unknown.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_unknown.icns; sourceTree = "<group>"; };
+		5A416FF625F73A4A511F3071 /* SSDT-6-OptTabl.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-6-OptTabl.aml"; sourceTree = "<group>"; };
+		831296C11FC4C0C3006A824D /* Q534UX-POST */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Q534UX-POST"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		831296BE1FC4C0C3006A824D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5A41600DB254583BF2EF3D71 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41665405C89C4CA84CE4DD /* AtherosE2200Ethernet */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41607A264BE497736D7BAE /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41674328B72C7D0878352D /* MacOS */,
+				5A416C2B1EB48379E9C17538 /* PlugIns */,
+				5A41683DF35F51D30565874B /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416086DF8E03B044955E9B /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164661D8986F6AAE9C440 /* VoodooPS2Keyboard */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41608DECB6D853A3AB1E5A /* UEFI */ = {
+			isa = PBXGroup;
+			children = (
+				5A416EF462649A226EDDF52D /* ACPI */,
+				5A416F9D40C79362C73FA4C2 /* kexts */,
+				5A4161CF7CEBA9775CC18C6A /* config-sample.plist */,
+			);
+			path = UEFI;
+			sourceTree = "<group>";
+		};
+		5A4160A10BC5F66763FA8C3E /* origin */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = origin;
+			sourceTree = "<group>";
+		};
+		5A4160E9EDF29B7DBBED1C0A /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41600DB254583BF2EF3D71 /* MacOS */,
+				5A41682CE2C0479811194175 /* Resources */,
+				5A4160F6B727EBB927DA8E33 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416123D750076BFABCAFB1 /* VoodooPS2Keyboard.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4168A9E7F61985B8913F53 /* Contents */,
+			);
+			path = VoodooPS2Keyboard.kext;
+			sourceTree = "<group>";
+		};
+		5A416174912AD6AB66323086 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A41609F1D66EBD6E3BA860D /* InfoPlist.strings.txt */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		5A41618FB7FF97358692E5D2 /* VoodooPS2Mouse.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416D6CA689E7204E606650 /* Contents */,
+			);
+			path = VoodooPS2Mouse.kext;
+			sourceTree = "<group>";
+		};
+		5A4161BE687B7EF6C250B5BF /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169CB2DD14422144A0616 /* FakePCIID */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41622D97BCD807FF111BD1 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4163A0CA3520EDA3CF4F66 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A41623379493750D9225A55 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				5A416A51BD561692872804AD /* FakeSMC.kext */,
+				5A416B066589DA2F33B4BCD0 /* RealtekRTL8111.kext */,
+				5A416D607281E0A98DDD1D27 /* AtherosE2200Ethernet.kext */,
+				5A416A195D9D0060A7A7D61A /* VoodooPS2Controller.kext */,
+				5A4168AC7F6A1B2230108504 /* GenericUSBXHCI.kext */,
+				5A41649D8CD18802FD969317 /* FakePCIID.kext */,
+				5A416E62F0D314AD5B0FEE3C /* FakePCIID_Intel_HD_Graphics.kext */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		5A4162871255BEF37F7FADC7 /* kexts */ = {
+			isa = PBXGroup;
+			children = (
+				5A416E1D7A9F8AA0DFE2B9B2 /* Other */,
+			);
+			path = kexts;
+			sourceTree = "<group>";
+		};
+		5A4163EA6A44580404DD1DDC /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164AA76B96F50173E30A5 /* FakeSMC */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4164133F19A27700B31080 /* ACPI */ = {
+			isa = PBXGroup;
+			children = (
+				5A416506070C5D6A22131363 /* origin */,
+				5A416A7EDBB058F728DA3488 /* patched */,
+				5A4169CDF05D54475DABD411 /* WINDOWS */,
+			);
+			path = ACPI;
+			sourceTree = "<group>";
+		};
+		5A416421E3876A2E51ABC76B /* drivers64UEFI */ = {
+			isa = PBXGroup;
+			children = (
+				5A416B2D68F7965BB293AECB /* VBoxHfs-64.efi */,
+				5A416BAD43E3B86538BB65F2 /* FSInject-64.efi */,
+				5A416ED27DD5A6058F78531E /* SMCHelper-64.efi */,
+				5A4163A997B512985EDE6BD8 /* DataHubDxe-64.efi */,
+				5A4162356D55928709EB0C14 /* AppleUITheme-64.efi */,
+				5A416BD790059C03E4350B39 /* FirmwareVolume-64.efi */,
+				5A4168632424353CAEBD5D84 /* AppleImageCodec-64.efi */,
+				5A4168F6A051613FC953C7BD /* OsxAptioFix2Drv-64.efi */,
+				5A416CEF62457BCC5154BB4B /* OsxFatBinaryDrv-64.efi */,
+				5A4169195821E72604FA56EE /* AppleKeyAggregator-64.efi */,
+				5A416C265BACF24D368FC8B8 /* HFSPlus.efi */,
+				5A416B708D9A855CFE8C5579 /* apfs.efi */,
+			);
+			path = drivers64UEFI;
+			sourceTree = "<group>";
+		};
+		5A41649D8CD18802FD969317 /* FakePCIID.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167235A7C9D4BFB2B0279 /* Contents */,
+			);
+			path = FakePCIID.kext;
+			sourceTree = "<group>";
+		};
+		5A416506070C5D6A22131363 /* origin */ = {
+			isa = PBXGroup;
+			children = (
+				5A41644D034416C0C6B6C997 /* APIC.aml */,
+				5A416B3CD90F5F99813CE84B /* BGRT.aml */,
+				5A41670D7D296A7EA4E7FE0D /* DBG2.aml */,
+				5A41685F1ECCFA003D2BCB56 /* DBGP.aml */,
+				5A4169692D8CC5B56D11B81F /* DSDT.aml */,
+				5A4160BF362432875CC43DEF /* ECDT.aml */,
+				5A416C31D7832CD9EE6A11F5 /* FACP.aml */,
+				5A4161C2E6C83B27CB8CD2A0 /* FACS.aml */,
+				5A416BDA13017256C89F131A /* FIDT.aml */,
+				5A41659712B3C48318471769 /* FPDT.aml */,
+				5A416F58DCD27E9DCC16C91D /* HPET.aml */,
+				5A4169A336A77273CBAAF917 /* LPIT.aml */,
+				5A41617C85890CB8934E5278 /* MCFG.aml */,
+				5A4169BF8DE5473D518A0567 /* MSDM.aml */,
+				5A416C890A5FECA19F2A6D80 /* RSDP.aml */,
+				5A416E53ADD37941FCB62D99 /* RSDT.aml */,
+				5A4164F2F351BFB36BE23E49 /* TPM2.aml */,
+				5A41642A3798FAD81828A3D8 /* UEFI.aml */,
+				5A416AE6A7E781DC8E2284DD /* WSMT.aml */,
+				5A4166AAF35961D7936A6433 /* XSDT.aml */,
+				5A41619E2FE7E3C81B481656 /* DumpLog.txt */,
+				5A416D4E05AF5EE6B5CAC8FF /* RSDT-FACP.aml */,
+				5A4166F2A3A672FB21ABDE4A /* RSDT-FACS.aml */,
+				5A41673A9B3B33DDB5C94812 /* SSDT-4-SgUlt.aml */,
+				5A416B6DE31FF8153A1107D1 /* SSDT-5-SgPch.aml */,
+				5A41649F0D9770D68441BABF /* SSDT-1-SaSsdt.aml */,
+				5A4165327D20B57E426173CB /* SSDT-2-CpuSsdt.aml */,
+				5A416FF625F73A4A511F3071 /* SSDT-6-OptTabl.aml */,
+				5A4161336D762AD5A38FF63E /* SSDT-0-DptfTabl.aml */,
+				5A41677A2C8B88FB5DA38996 /* SSDT-3-sensrhub.aml */,
+				5A416817A669368A9D0A2B60 /* SSDT-x2_1-ApIst.aml */,
+				5A4168FE0DA19C96CBEFFA6B /* SSDT-x2_3-ApCst.aml */,
+				5A416A6062564ADAA5E2C864 /* SSDT-x2_5-ApHwp.aml */,
+				5A416906B8D440064E17CEFE /* SSDT-x2_6-HwpLvt.aml */,
+				5A41656FA1269F249ACA806B /* SSDT-x2_0-Cpu0Ist.aml */,
+				5A416C6213D32B9D97BBFAE6 /* SSDT-x2_2-Cpu0Cst.aml */,
+				5A4169A4D3579EA2825CCCE5 /* SSDT-x2_4-Cpu0Hwp.aml */,
+			);
+			path = origin;
+			sourceTree = "<group>";
+		};
+		5A41654B63E057F3E5933ED9 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416B2590E1674051F59130 /* VoodooPS2Trackpad */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41657229CFEEECB3BBE521 /* VoodooPS2Trackpad.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165EE1DE5CEDDE5479554 /* Contents */,
+			);
+			path = VoodooPS2Trackpad.kext;
+			sourceTree = "<group>";
+		};
+		5A41657BACA3F6B3094B68CA /* origin */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = origin;
+			sourceTree = "<group>";
+		};
+		5A4165887F8FC7394E6BFDC6 /* themes */ = {
+			isa = PBXGroup;
+			children = (
+				5A4166ED8E6A2FA16837FDB1 /* random */,
+				5A4169DFEA3E9619FC3F8C02 /* embedded */,
+				5A41622DE0D8D683F85BA867 /* frame.png */,
+				5A416B5B277285E0CD4BA56A /* tonymacx86 */,
+				5A4160D82FE56CE360707630 /* logo_main.png */,
+				5A4167E63E85D410CBFFD338 /* logo_metal.png */,
+				5A416643BE187A02EA9C4DCA /* pointer-green.png */,
+				5A416705DAFF3925D6E679E6 /* pointer-metal.png */,
+				5A416D0F0FE1FE0C3C32E52A /* Selection_64px.bmp */,
+				5A4161952ADC5E6CFE9EAA94 /* Selection_144px.bmp */,
+			);
+			path = themes;
+			sourceTree = "<group>";
+		};
+		5A4165EE1DE5CEDDE5479554 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41654B63E057F3E5933ED9 /* MacOS */,
+				5A416639FA61CD408AA6F6F1 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4165F9EB7B29295DF868F4 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416A0B6E2488D901A960A8 /* RealtekRTL8111 */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4166487229D8CFB7A5C4E6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416174912AD6AB66323086 /* en.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A41666FEC616C7B6D954413 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A416535A7C026ACF3D98842 /* InfoPlist.strings.txt */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		5A4166ED8E6A2FA16837FDB1 /* random */ = {
+			isa = PBXGroup;
+			children = (
+				5A416AA510BBC5E1AD446A59 /* theme.plist */,
+			);
+			path = random;
+			sourceTree = "<group>";
+		};
+		5A4167105C43B56595D54197 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		5A4167235A7C9D4BFB2B0279 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4161BE687B7EF6C250B5BF /* MacOS */,
+				5A416E1B8D4A05359EF6DDC6 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A41674328B72C7D0878352D /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41621810710BEE26CBCEE7 /* VoodooPS2Controller */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4167D97927C0FD517B9415 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				5A416EA1CC83428C5F621762 /* osx.icns */,
+				5A41611A0F8F6416839CFC68 /* apple.png */,
+				5A4160898624AD3F1B5A98CE /* arrow.png */,
+				5A4161D2ACFBCF2E71BB897D /* frame.png */,
+				5A4167AA7E970462C5952E44 /* cd_win.icns */,
+				5A416B20232ABCB18F03402D /* os_cap.icns */,
+				5A41662173B4286601F5EE56 /* os_leo.icns */,
+				5A4160671BFFD5C583DAD4EE /* os_mac.icns */,
+				5A416AB2F4BC104A7BDBA4D5 /* os_mav.icns */,
+				5A4163AD6E6C51F8F59479A7 /* os_win.icns */,
+				5A416B9CFD96FF56E4AED794 /* os_yos.icns */,
+				5A4169A88E3397BD46A71B35 /* pointer.png */,
+				5A416BF08E7DBA26640C00D1 /* os_lion.icns */,
+				5A41635685A9284218BB97E1 /* os_mint.icns */,
+				5A416898672E7BE3D24C9031 /* os_snow.icns */,
+				5A416E5DCECC5ED01CE3A3FD /* os_suse.icns */,
+				5A416F805B0950A98B5848CF /* os_win7.icns */,
+				5A416C8D680BD660494060BE /* os_win8.icns */,
+				5A41603E3E6495AA3561F711 /* boot_win.icns */,
+				5A41613CED0EB83347178B7C /* func_help.png */,
+				5A4160DCA2C79DE36682B7B3 /* os_linux.icns */,
+				5A416A8192EDED2ACA1C28BE /* os_tiger.icns */,
+				5A416558FB6F71018C621709 /* os_vista.icns */,
+				5A416BE4E217D2FA4DDE949F /* os_winxp.icns */,
+				5A416AF3F3D7398077B95883 /* OtherMac.icns */,
+				5A416D92F5B856AB89BECE86 /* func_about.png */,
+				5A416940A4C3ACD8A7F15E5D /* func_reset.png */,
+				5A416123CBC7453E9E880FA6 /* os_clover.icns */,
+				5A416B018BA902DA1ADE616B /* os_cougar.icns */,
+				5A4162C0075DF1EF58B3DA7B /* os_fedora.icns */,
+				5A416305EB862251F36BB4EA /* os_legacy.icns */,
+				5A416485ECE47D82B4428FAD /* os_netbsd.icns */,
+				5A4169D7A14D7DCF127D29C4 /* os_sierra.icns */,
+				5A416DAF27E497B700F2D2CA /* os_ubuntu.icns */,
+				5A4166BA83B0B9D60FC263E5 /* tool_shell.png */,
+				5A4167777320FB0E3CECD5CA /* boot_linux.icns */,
+				5A41606BA5A004A5D1502163 /* cd_mac_leo.icns */,
+				5A416A6EA6A390C128642615 /* func_clover.png */,
+				5A416E6197F7DE02137EC878 /* os_freebsd.icns */,
+				5A416B92484951D6B2FF5F45 /* os_freedos.icns */,
+				5A41637A434C3CE714C28BC1 /* os_hsierra.icns */,
+				5A4164F83BB1973088DB69EE /* os_openbsd.icns */,
+				5A416FE7CDB2D2D96431CC54 /* os_unknown.icns */,
+				5A416DEC678C05F9AD803E3D /* tool_shell.icns */,
+				5A416D4EA09A371E56DDBC63 /* vol_clover.icns */,
+				5A416CF00B85E1F4A3DBB4FD /* cd_mac_snow.icns */,
+				5A41666BCFF01C7A64E1A147 /* func_options.png */,
+				5A416E05927B8BB086B5BE72 /* os_recovery.icns */,
+				5A416D034D9C3400FD48BDB3 /* os_winvista.icns */,
+				5A4162C7087B08DAB25FE8DA /* vol_netboot.icns */,
+				5A4167ED10E93823EA0E0C32 /* vol_optical.icns */,
+				5A416BBCAD46AEA41A5CAE99 /* cd_mac_tiger.icns */,
+				5A4167A52FD7F36BDF4A73D7 /* func_shutdown.png */,
+				5A41604F48512E7E28E3D6BC /* pointer-black.png */,
+				5A4161D1D41962D20FCAC8CE /* vol_external.icns */,
+				5A416B2F0E05CDF06A60418F /* vol_firewire.icns */,
+				5A41615612577DB75462B644 /* vol_internal.icns */,
+				5A41604D966B934A6BA3C922 /* vol_recovery.icns */,
+				5A4167D45F9E0A653855E74F /* os_ecomstation.icns */,
+				5A4164A137B8889E2EF5C36C /* vol_internal_hfs.icns */,
+				5A41625F1B3741E01A600909 /* vol_internal_ext3.icns */,
+				5A416B6A3AA56A66897A20DE /* vol_internal_ntfs.icns */,
+				5A4165E1813C342DE237D0CB /* vol_internal_ntfs_31.icns */,
+				5A4162995D97598B2B569182 /* vol_internal_ntfs_XP7.icns */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
+		5A41682CE2C0479811194175 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A41666FEC616C7B6D954413 /* en.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A4168A9E7F61985B8913F53 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416086DF8E03B044955E9B /* MacOS */,
+				5A41602B40429C1D0323D38A /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4168AC7F6A1B2230108504 /* GenericUSBXHCI.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C9ABDAFE79182934C7F /* Contents */,
+			);
+			path = GenericUSBXHCI.kext;
+			sourceTree = "<group>";
+		};
+		5A41690DD8BFEC9043910568 /* SystemProductName */ = {
+			isa = PBXGroup;
+			children = (
+				5A416F813B262581995F092F /* ROM */,
+				5A416FD4B3FC3FC4D1130A2B /* ACPI */,
+				5A41608DECB6D853A3AB1E5A /* UEFI */,
+				5A4162871255BEF37F7FADC7 /* kexts */,
+				5A416ACE3D33E3BB58D1A897 /* config-sample.plist */,
+			);
+			path = SystemProductName;
+			sourceTree = "<group>";
+		};
+		5A416942DD59D7F2BDDF0442 /* kexts */ = {
+			isa = PBXGroup;
+			children = (
+				5A41623379493750D9225A55 /* Other */,
+			);
+			path = kexts;
+			sourceTree = "<group>";
+		};
+		5A416978C3FD774CFC5753AB /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416150FD542A32671AFF14 /* VoodooPS2Mouse */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4169A77F335E3E92828F0D /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165F9EB7B29295DF868F4 /* MacOS */,
+				5A4166487229D8CFB7A5C4E6 /* Resources */,
+				5A416933DB21CF563E0C18E9 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4169CDF05D54475DABD411 /* WINDOWS */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = WINDOWS;
+			sourceTree = "<group>";
+		};
+		5A4169DFEA3E9619FC3F8C02 /* embedded */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167225C4743EBFEFC4C76 /* theme.plist */,
+				5A4162517F5F8339BF4DACDD /* screenshot.png */,
+			);
+			path = embedded;
+			sourceTree = "<group>";
+		};
+		5A416A08240B0B34AB537BB9 /* tools */ = {
+			isa = PBXGroup;
+			children = (
+				5A416B4C0938A1D2C67D1536 /* Shell.inf */,
+				5A416E393DAA43829D860D20 /* bdmesg.efi */,
+				5A416CDF846FD0CF650635DD /* Shell32.efi */,
+				5A416BB8FB6241494C15D357 /* Shell64.efi */,
+				5A4167AA341952E7EB3504DB /* Shell64U.efi */,
+			);
+			path = tools;
+			sourceTree = "<group>";
+		};
+		5A416A195D9D0060A7A7D61A /* VoodooPS2Controller.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A41607A264BE497736D7BAE /* Contents */,
+			);
+			path = VoodooPS2Controller.kext;
+			sourceTree = "<group>";
+		};
+		5A416A51BD561692872804AD /* FakeSMC.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416BC8243F51A0477CC9F1 /* Contents */,
+			);
+			path = FakeSMC.kext;
+			sourceTree = "<group>";
+		};
+		5A416A7EDBB058F728DA3488 /* patched */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */,
+			);
+			path = patched;
+			sourceTree = "<group>";
+		};
+		5A416B066589DA2F33B4BCD0 /* RealtekRTL8111.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169A77F335E3E92828F0D /* Contents */,
+			);
+			path = RealtekRTL8111.kext;
+			sourceTree = "<group>";
+		};
+		5A416B36E6175AB27560FBEF /* doc */ = {
+			isa = PBXGroup;
+			children = (
+				5A416CCC6D0A324AC076FEEE /* bcfg.txt */,
+				5A416F922565F08EEFA5AE2E /* HowToFixDsdt.txt */,
+				5A416922240F815A48C5FBC3 /* boot1f32-install.sh */,
+				5A416CAFFB9E12E13E522466 /* HowToInstallOSX.txt */,
+				5A4164F7837CACDBB00434B9 /* UEFI boot with Clover.rtf */,
+			);
+			path = doc;
+			sourceTree = "<group>";
+		};
+		5A416B5B277285E0CD4BA56A /* tonymacx86 */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167D97927C0FD517B9415 /* icons */,
+				5A416919E2C91E2216C8B8DA /* logo.png */,
+				5A416B805C735481432F2922 /* scrollbar */,
+				5A416745A8B41EBDA562AE4F /* theme.plist */,
+				5A416C25E51E9C11864BC191 /* background.png */,
+				5A416B7529CE685075D47A3C /* selection_big.png */,
+				5A416E5CF87527B4C34F65EE /* selection_small.png */,
+			);
+			path = tonymacx86;
+			sourceTree = "<group>";
+		};
+		5A416B805C735481432F2922 /* scrollbar */ = {
+			isa = PBXGroup;
+			children = (
+				5A416137325469185436632D /* bar_end.png */,
+				5A4163193BA15CA860A849CC /* bar_fill.png */,
+				5A41641B1CF1EDD824AB7688 /* bar_start.png */,
+				5A416288E640BE3161E11E83 /* up_button.png */,
+				5A416A419F32CA17A86CABF7 /* scroll_end.png */,
+				5A41642B7D7DAA0BC8E01890 /* down_button.png */,
+				5A41608A73208FAC0B58D203 /* scroll_fill.png */,
+				5A416363BE313DC076966627 /* scroll_start.png */,
+			);
+			path = scrollbar;
+			sourceTree = "<group>";
+		};
+		5A416BA906FEFD73D1855D0A /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4160497F4358580446973D /* GenericUSBXHCI */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416BC8243F51A0477CC9F1 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4163EA6A44580404DD1DDC /* MacOS */,
+				5A4163C803064029C497091E /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416C0A4D0A1F23069D5003 /* patched */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = patched;
+			sourceTree = "<group>";
+		};
+		5A416C2B1EB48379E9C17538 /* PlugIns */ = {
+			isa = PBXGroup;
+			children = (
+				5A41618FB7FF97358692E5D2 /* VoodooPS2Mouse.kext */,
+				5A416123D750076BFABCAFB1 /* VoodooPS2Keyboard.kext */,
+				5A41657229CFEEECB3BBE521 /* VoodooPS2Trackpad.kext */,
+			);
+			path = PlugIns;
+			sourceTree = "<group>";
+		};
+		5A416C9ABDAFE79182934C7F /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416BA906FEFD73D1855D0A /* MacOS */,
+				5A416C7F4241148CA32A2354 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416D607281E0A98DDD1D27 /* AtherosE2200Ethernet.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4160E9EDF29B7DBBED1C0A /* Contents */,
+			);
+			path = AtherosE2200Ethernet.kext;
+			sourceTree = "<group>";
+		};
+		5A416D6CA689E7204E606650 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416978C3FD774CFC5753AB /* MacOS */,
+				5A416FE12A3CCA141362AE33 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416E1D7A9F8AA0DFE2B9B2 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		5A416E4553EA09B916644BB1 /* patched */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = patched;
+			sourceTree = "<group>";
+		};
+		5A416E60FCBE47BBE664FFFF /* OEM */ = {
+			isa = PBXGroup;
+			children = (
+				5A41690DD8BFEC9043910568 /* SystemProductName */,
+			);
+			path = OEM;
+			sourceTree = "<group>";
+		};
+		5A416E62F0D314AD5B0FEE3C /* FakePCIID_Intel_HD_Graphics.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A41622D97BCD807FF111BD1 /* Contents */,
+			);
+			path = FakePCIID_Intel_HD_Graphics.kext;
+			sourceTree = "<group>";
+		};
+		5A416EF462649A226EDDF52D /* ACPI */ = {
+			isa = PBXGroup;
+			children = (
+				5A41657BACA3F6B3094B68CA /* origin */,
+				5A416E4553EA09B916644BB1 /* patched */,
+			);
+			path = ACPI;
+			sourceTree = "<group>";
+		};
+		5A416F813B262581995F092F /* ROM */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ROM;
+			sourceTree = "<group>";
+		};
+		5A416F9D40C79362C73FA4C2 /* kexts */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167105C43B56595D54197 /* Other */,
+			);
+			path = kexts;
+			sourceTree = "<group>";
+		};
+		5A416FD4B3FC3FC4D1130A2B /* ACPI */ = {
+			isa = PBXGroup;
+			children = (
+				5A4160A10BC5F66763FA8C3E /* origin */,
+				5A416C0A4D0A1F23069D5003 /* patched */,
+			);
+			path = ACPI;
+			sourceTree = "<group>";
+		};
+		831296B81FC4C0C3006A824D = {
+			isa = PBXGroup;
+			children = (
+				831296C31FC4C0C3006A824D /* Q534UX-POST */,
+				831296C21FC4C0C3006A824D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		831296C21FC4C0C3006A824D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				831296C11FC4C0C3006A824D /* Q534UX-POST */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		831296C31FC4C0C3006A824D /* Q534UX-POST */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165887F8FC7394E6BFDC6 /* themes */,
+				5A416E60FCBE47BBE664FFFF /* OEM */,
+				5A416421E3876A2E51ABC76B /* drivers64UEFI */,
+				5A416942DD59D7F2BDDF0442 /* kexts */,
+				5A41628FFCA717A4881F954B /* CLOVERX64.efi */,
+				5A416B36E6175AB27560FBEF /* doc */,
+				5A416A08240B0B34AB537BB9 /* tools */,
+				5A4164133F19A27700B31080 /* ACPI */,
+				5A416698376F4518ACA89DA1 /* config.plist */,
+			);
+			path = "Q534UX-POST";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		831296C01FC4C0C3006A824D /* Q534UX-POST */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 831296C81FC4C0C3006A824D /* Build configuration list for PBXNativeTarget "Q534UX-POST" */;
+			buildPhases = (
+				831296BD1FC4C0C3006A824D /* Sources */,
+				831296BE1FC4C0C3006A824D /* Frameworks */,
+				831296BF1FC4C0C3006A824D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Q534UX-POST";
+			productName = Q534UX;
+			productReference = 831296C11FC4C0C3006A824D /* Q534UX-POST */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		831296B91FC4C0C3006A824D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = "Number 9 Labs";
+				TargetAttributes = {
+					831296C01FC4C0C3006A824D = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 831296BC1FC4C0C3006A824D /* Build configuration list for PBXProject "Q534UX-POST" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 831296B81FC4C0C3006A824D;
+			productRefGroup = 831296C21FC4C0C3006A824D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				831296C01FC4C0C3006A824D /* Q534UX-POST */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		831296BD1FC4C0C3006A824D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5A41609F1D66EBD6E3BA860D /* InfoPlist.strings.txt */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A416131D8C54883A75675A8 /* en */,
+			);
+			name = InfoPlist.strings.txt;
+			sourceTree = "<group>";
+		};
+		5A416535A7C026ACF3D98842 /* InfoPlist.strings.txt */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A41639A3CA8E162527355EB /* en */,
+			);
+			name = InfoPlist.strings.txt;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		831296C61FC4C0C3006A824D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		831296C71FC4C0C3006A824D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		831296C91FC4C0C3006A824D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		831296CA1FC4C0C3006A824D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		831296BC1FC4C0C3006A824D /* Build configuration list for PBXProject "Q534UX-POST" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				831296C61FC4C0C3006A824D /* Debug */,
+				831296C71FC4C0C3006A824D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		831296C81FC4C0C3006A824D /* Build configuration list for PBXNativeTarget "Q534UX-POST" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				831296C91FC4C0C3006A824D /* Debug */,
+				831296CA1FC4C0C3006A824D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 831296B91FC4C0C3006A824D /* Project object */;
+}

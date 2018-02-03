@@ -183,7 +183,6 @@
 		5A416E53ADD37941FCB62D99 /* RSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = RSDT.aml; sourceTree = "<group>"; };
 		5A416E5CF87527B4C34F65EE /* selection_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selection_small.png; sourceTree = "<group>"; };
 		5A416E5DCECC5ED01CE3A3FD /* os_suse.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_suse.icns; sourceTree = "<group>"; };
-		5A416E60852D95C5B121CA21 /* config_HD620.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = config_HD620.plist; sourceTree = "<group>"; };
 		5A416E6197F7DE02137EC878 /* os_freebsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_freebsd.icns; sourceTree = "<group>"; };
 		5A416EA1CC83428C5F621762 /* osx.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = osx.icns; sourceTree = "<group>"; };
 		5A416ED27DD5A6058F78531E /* SMCHelper-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "SMCHelper-64.efi"; sourceTree = "<group>"; };
@@ -902,7 +901,6 @@
 				5A416A08240B0B34AB537BB9 /* tools */,
 				5A4164133F19A27700B31080 /* ACPI */,
 				5A416698376F4518ACA89DA1 /* config.plist */,
-				5A416E60852D95C5B121CA21 /* config_HD620.plist */,
 				5A416600B5290FF1F670F206 /* config_620.plist */,
 			);
 			path = "Q534UX-POST";

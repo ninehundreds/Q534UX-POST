@@ -19,6 +19,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5A416018FC15648AD796C30E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41601BED37EBAD831D22EA /* CalDigitHDProDrv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CalDigitHDProDrv; sourceTree = "<group>"; };
 		5A41602B40429C1D0323D38A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A41603E3E6495AA3561F711 /* boot_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = boot_win.icns; sourceTree = "<group>"; };
 		5A4160497F4358580446973D /* GenericUSBXHCI */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GenericUSBXHCI; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		5A4161336D762AD5A38FF63E /* SSDT-0-DptfTabl.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-0-DptfTabl.aml"; sourceTree = "<group>"; };
 		5A416137325469185436632D /* bar_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_end.png; sourceTree = "<group>"; };
 		5A41613CED0EB83347178B7C /* func_help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_help.png; sourceTree = "<group>"; };
+		5A41613F8EEEC734BF4443A4 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A416150FD542A32671AFF14 /* VoodooPS2Mouse */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Mouse; sourceTree = "<group>"; };
 		5A41615612577DB75462B644 /* vol_internal.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal.icns; sourceTree = "<group>"; };
 		5A41617C85890CB8934E5278 /* MCFG.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = MCFG.aml; sourceTree = "<group>"; };
@@ -47,8 +50,11 @@
 		5A4161CF7CEBA9775CC18C6A /* config-sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = "config-sample.plist"; sourceTree = "<group>"; };
 		5A4161D1D41962D20FCAC8CE /* vol_external.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_external.icns; sourceTree = "<group>"; };
 		5A4161D2ACFBCF2E71BB897D /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
+		5A41620EEA99BA4E5D9D3D7A /* mediafc.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = mediafc.icns; sourceTree = "<group>"; };
 		5A41621810710BEE26CBCEE7 /* VoodooPS2Controller */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Controller; sourceTree = "<group>"; };
+		5A4162257773F7EA28FF4F54 /* English */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A41622DE0D8D683F85BA867 /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
+		5A41622F709F49EA363FF203 /* mediasas.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = mediasas.icns; sourceTree = "<group>"; };
 		5A4162356D55928709EB0C14 /* AppleUITheme-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleUITheme-64.efi"; sourceTree = "<group>"; };
 		5A4162517F5F8339BF4DACDD /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		5A41625F1B3741E01A600909 /* vol_internal_ext3.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ext3.icns; sourceTree = "<group>"; };
@@ -57,8 +63,12 @@
 		5A4162995D97598B2B569182 /* vol_internal_ntfs_XP7.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_XP7.icns; sourceTree = "<group>"; };
 		5A4162C0075DF1EF58B3DA7B /* os_fedora.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_fedora.icns; sourceTree = "<group>"; };
 		5A4162C7087B08DAB25FE8DA /* vol_netboot.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_netboot.icns; sourceTree = "<group>"; };
+		5A4162E7E3FF8DD65B8FD60E /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
+		5A416304B1B2D33950EE7AFA /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A416305EB862251F36BB4EA /* os_legacy.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_legacy.icns; sourceTree = "<group>"; };
+		5A41630CDA86B59B7063D494 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A4163193BA15CA860A849CC /* bar_fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_fill.png; sourceTree = "<group>"; };
+		5A41632355B265AB14E672DC /* Lilu */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lilu; sourceTree = "<group>"; };
 		5A41635685A9284218BB97E1 /* os_mint.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_mint.icns; sourceTree = "<group>"; };
 		5A416363BE313DC076966627 /* scroll_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scroll_start.png; sourceTree = "<group>"; };
 		5A41637A434C3CE714C28BC1 /* os_hsierra.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_hsierra.icns; sourceTree = "<group>"; };
@@ -67,36 +77,53 @@
 		5A4163A997B512985EDE6BD8 /* DataHubDxe-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "DataHubDxe-64.efi"; sourceTree = "<group>"; };
 		5A4163AD6E6C51F8F59479A7 /* os_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win.icns; sourceTree = "<group>"; };
 		5A4163C803064029C497091E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A4164159D0B429CA51F3E44 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A41641B1CF1EDD824AB7688 /* bar_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_start.png; sourceTree = "<group>"; };
 		5A41642A3798FAD81828A3D8 /* UEFI.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = UEFI.aml; sourceTree = "<group>"; };
 		5A41642B7D7DAA0BC8E01890 /* down_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = down_button.png; sourceTree = "<group>"; };
+		5A4164403E7780626F92D341 /* ArcMSR */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ArcMSR; sourceTree = "<group>"; };
 		5A41644D034416C0C6B6C997 /* APIC.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = APIC.aml; sourceTree = "<group>"; };
 		5A4164661D8986F6AAE9C440 /* VoodooPS2Keyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Keyboard; sourceTree = "<group>"; };
 		5A416485ECE47D82B4428FAD /* os_netbsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_netbsd.icns; sourceTree = "<group>"; };
 		5A41649F0D9770D68441BABF /* SSDT-1-SaSsdt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-1-SaSsdt.aml"; sourceTree = "<group>"; };
 		5A4164A137B8889E2EF5C36C /* vol_internal_hfs.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_hfs.icns; sourceTree = "<group>"; };
 		5A4164AA76B96F50173E30A5 /* FakeSMC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FakeSMC; sourceTree = "<group>"; };
+		5A4164ADBB4DA2244170C506 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A4164F02FAE6CD21740B1F9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A4164F2030F3AF0E0F19465 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A4164F2F351BFB36BE23E49 /* TPM2.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = TPM2.aml; sourceTree = "<group>"; };
 		5A4164F7837CACDBB00434B9 /* UEFI boot with Clover.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "UEFI boot with Clover.rtf"; sourceTree = "<group>"; };
 		5A4164F83BB1973088DB69EE /* os_openbsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_openbsd.icns; sourceTree = "<group>"; };
 		5A4165327D20B57E426173CB /* SSDT-2-CpuSsdt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-2-CpuSsdt.aml"; sourceTree = "<group>"; };
+		5A416538767650EF0A54CEF8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416558FB6F71018C621709 /* os_vista.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_vista.icns; sourceTree = "<group>"; };
 		5A41656FA1269F249ACA806B /* SSDT-x2_0-Cpu0Ist.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_0-Cpu0Ist.aml"; sourceTree = "<group>"; };
+		5A41657B09A73F38CA8BA153 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A41659712B3C48318471769 /* FPDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FPDT.aml; sourceTree = "<group>"; };
 		5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-DiscreteSpoof.aml"; sourceTree = "<group>"; };
+		5A4165B01EC409E646DCD65C /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A4165E1813C342DE237D0CB /* vol_internal_ntfs_31.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_31.icns; sourceTree = "<group>"; };
+		5A4165F9B424FA175FA01A3C /* mediasas.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = mediasas.icns; sourceTree = "<group>"; };
 		5A41662173B4286601F5EE56 /* os_leo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_leo.icns; sourceTree = "<group>"; };
 		5A416639FA61CD408AA6F6F1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416643BE187A02EA9C4DCA /* pointer-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-green.png"; sourceTree = "<group>"; };
 		5A41665405C89C4CA84CE4DD /* AtherosE2200Ethernet */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AtherosE2200Ethernet; sourceTree = "<group>"; };
+		5A41665CCDEC2843536590F6 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A41665F0AB4E5283A59A3A5 /* IntelGraphicsFixup */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IntelGraphicsFixup; sourceTree = "<group>"; };
 		5A41666BCFF01C7A64E1A147 /* func_options.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_options.png; sourceTree = "<group>"; };
 		5A416698376F4518ACA89DA1 /* config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = config.plist; sourceTree = "<group>"; };
+		5A41669D72108B7579DA3AC7 /* SoftRAID */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SoftRAID; sourceTree = "<group>"; };
+		5A4166A71C02F49464006035 /* haxm-isRunning */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "haxm-isRunning"; sourceTree = "<group>"; };
 		5A4166AAF35961D7936A6433 /* XSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = XSDT.aml; sourceTree = "<group>"; };
+		5A4166B093E5C1560BD9EBF9 /* HighPointIOP */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HighPointIOP; sourceTree = "<group>"; };
 		5A4166BA83B0B9D60FC263E5 /* tool_shell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tool_shell.png; sourceTree = "<group>"; };
+		5A4166C65B7A727713C06B90 /* English */ = {isa = PBXFileReference; fileEncoding = 2415919360; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A4166F2A3A672FB21ABDE4A /* RSDT-FACS.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "RSDT-FACS.aml"; sourceTree = "<group>"; };
 		5A416705DAFF3925D6E679E6 /* pointer-metal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-metal.png"; sourceTree = "<group>"; };
 		5A41670D7D296A7EA4E7FE0D /* DBG2.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DBG2.aml; sourceTree = "<group>"; };
+		5A41671CEDF88C7F0979B11D /* uninstall.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = uninstall.sh; sourceTree = "<group>"; };
 		5A4167225C4743EBFEFC4C76 /* theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = theme.plist; sourceTree = "<group>"; };
+		5A4167236A8FA96BFF017374 /* intelhaxm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = intelhaxm; sourceTree = "<group>"; };
 		5A41673A9B3B33DDB5C94812 /* SSDT-4-SgUlt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-4-SgUlt.aml"; sourceTree = "<group>"; };
 		5A416745A8B41EBDA562AE4F /* theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = theme.plist; sourceTree = "<group>"; };
 		5A4167777320FB0E3CECD5CA /* boot_linux.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = boot_linux.icns; sourceTree = "<group>"; };
@@ -104,6 +131,7 @@
 		5A4167A52FD7F36BDF4A73D7 /* func_shutdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_shutdown.png; sourceTree = "<group>"; };
 		5A4167AA341952E7EB3504DB /* Shell64U.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = Shell64U.efi; sourceTree = "<group>"; };
 		5A4167AA7E970462C5952E44 /* cd_win.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_win.icns; sourceTree = "<group>"; };
+		5A4167C8DF9BC79F18FDAA51 /* ATTOExpressSASRAID2 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ATTOExpressSASRAID2; sourceTree = "<group>"; };
 		5A4167D45F9E0A653855E74F /* os_ecomstation.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_ecomstation.icns; sourceTree = "<group>"; };
 		5A4167E63E85D410CBFFD338 /* logo_metal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_metal.png; sourceTree = "<group>"; };
 		5A4167ED10E93823EA0E0C32 /* vol_optical.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_optical.icns; sourceTree = "<group>"; };
@@ -112,21 +140,29 @@
 		5A41685F1ECCFA003D2BCB56 /* DBGP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DBGP.aml; sourceTree = "<group>"; };
 		5A4168632424353CAEBD5D84 /* AppleImageCodec-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleImageCodec-64.efi"; sourceTree = "<group>"; };
 		5A416898672E7BE3D24C9031 /* os_snow.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_snow.icns; sourceTree = "<group>"; };
+		5A4168A15A1585C4B079A380 /* haxm_configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = haxm_configure; sourceTree = "<group>"; };
+		5A4168DFB3BC8D8172895029 /* HighPointRR */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HighPointRR; sourceTree = "<group>"; };
 		5A4168F6A051613FC953C7BD /* OsxAptioFix2Drv-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "OsxAptioFix2Drv-64.efi"; sourceTree = "<group>"; };
 		5A4168FE0DA19C96CBEFFA6B /* SSDT-x2_3-ApCst.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_3-ApCst.aml"; sourceTree = "<group>"; };
 		5A416906B8D440064E17CEFE /* SSDT-x2_6-HwpLvt.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_6-HwpLvt.aml"; sourceTree = "<group>"; };
 		5A4169195821E72604FA56EE /* AppleKeyAggregator-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "AppleKeyAggregator-64.efi"; sourceTree = "<group>"; };
 		5A416919E2C91E2216C8B8DA /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		5A41692209F7FD6FFA457E01 /* readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
 		5A416922240F815A48C5FBC3 /* boot1f32-install.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "boot1f32-install.sh"; sourceTree = "<group>"; };
 		5A416933DB21CF563E0C18E9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416940A4C3ACD8A7F15E5D /* func_reset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_reset.png; sourceTree = "<group>"; };
+		5A41696526B1CA54A6BD6D01 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A4169692D8CC5B56D11B81F /* DSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = DSDT.aml; sourceTree = "<group>"; };
+		5A41698E080E4FEEBFA63D58 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
+		5A4169A2774C20E31A5CFCC0 /* ATTOExpressSASHBA2 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ATTOExpressSASHBA2; sourceTree = "<group>"; };
 		5A4169A336A77273CBAAF917 /* LPIT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = LPIT.aml; sourceTree = "<group>"; };
 		5A4169A4D3579EA2825CCCE5 /* SSDT-x2_4-Cpu0Hwp.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_4-Cpu0Hwp.aml"; sourceTree = "<group>"; };
 		5A4169A88E3397BD46A71B35 /* pointer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pointer.png; sourceTree = "<group>"; };
 		5A4169BF8DE5473D518A0567 /* MSDM.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = MSDM.aml; sourceTree = "<group>"; };
 		5A4169CB2DD14422144A0616 /* FakePCIID */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FakePCIID; sourceTree = "<group>"; };
 		5A4169D7A14D7DCF127D29C4 /* os_sierra.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_sierra.icns; sourceTree = "<group>"; };
+		5A4169D7B9D1C1F382691F1D /* ATTOCelerityFC8 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ATTOCelerityFC8; sourceTree = "<group>"; };
+		5A4169F330389E5C4181E962 /* haxm_start.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = haxm_start.sh; sourceTree = "<group>"; };
 		5A416A0B6E2488D901A960A8 /* RealtekRTL8111 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RealtekRTL8111; sourceTree = "<group>"; };
 		5A416A419F32CA17A86CABF7 /* scroll_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scroll_end.png; sourceTree = "<group>"; };
 		5A416A6062564ADAA5E2C864 /* SSDT-x2_5-ApHwp.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_5-ApHwp.aml"; sourceTree = "<group>"; };
@@ -137,6 +173,7 @@
 		5A416ACE3D33E3BB58D1A897 /* config-sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = "config-sample.plist"; sourceTree = "<group>"; };
 		5A416AE6A7E781DC8E2284DD /* WSMT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = WSMT.aml; sourceTree = "<group>"; };
 		5A416AF3F3D7398077B95883 /* OtherMac.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = OtherMac.icns; sourceTree = "<group>"; };
+		5A416AFF7B12B8EDD02660EA /* English */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A416B018BA902DA1ADE616B /* os_cougar.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_cougar.icns; sourceTree = "<group>"; };
 		5A416B20232ABCB18F03402D /* os_cap.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_cap.icns; sourceTree = "<group>"; };
 		5A416B2590E1674051F59130 /* VoodooPS2Trackpad */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VoodooPS2Trackpad; sourceTree = "<group>"; };
@@ -144,6 +181,7 @@
 		5A416B2F0E05CDF06A60418F /* vol_firewire.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_firewire.icns; sourceTree = "<group>"; };
 		5A416B3CD90F5F99813CE84B /* BGRT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = BGRT.aml; sourceTree = "<group>"; };
 		5A416B4C0938A1D2C67D1536 /* Shell.inf */ = {isa = PBXFileReference; lastKnownFileType = file.inf; path = Shell.inf; sourceTree = "<group>"; };
+		5A416B5561E9B469E5C71FB1 /* ACS6x */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ACS6x; sourceTree = "<group>"; };
 		5A416B6A3AA56A66897A20DE /* vol_internal_ntfs.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs.icns; sourceTree = "<group>"; };
 		5A416B6DE31FF8153A1107D1 /* SSDT-5-SgPch.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-5-SgPch.aml"; sourceTree = "<group>"; };
 		5A416B708D9A855CFE8C5579 /* apfs.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = apfs.efi; sourceTree = "<group>"; };
@@ -157,39 +195,59 @@
 		5A416BDA13017256C89F131A /* FIDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FIDT.aml; sourceTree = "<group>"; };
 		5A416BE4E217D2FA4DDE949F /* os_winxp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_winxp.icns; sourceTree = "<group>"; };
 		5A416BF08E7DBA26640C00D1 /* os_lion.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_lion.icns; sourceTree = "<group>"; };
+		5A416C1C4AB6D492548D0A3B /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
+		5A416C1EFA939D7B5EC9D141 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416C222AD929A0438268BA /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A416C25E51E9C11864BC191 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		5A416C265BACF24D368FC8B8 /* HFSPlus.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = HFSPlus.efi; sourceTree = "<group>"; };
+		5A416C28DB2EEA439AD386D3 /* PROMISE.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = PROMISE.icns; sourceTree = "<group>"; };
 		5A416C31D7832CD9EE6A11F5 /* FACP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FACP.aml; sourceTree = "<group>"; };
 		5A416C6213D32B9D97BBFAE6 /* SSDT-x2_2-Cpu0Cst.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-x2_2-Cpu0Cst.aml"; sourceTree = "<group>"; };
+		5A416C6DD284467FEDA78D7E /* UnlicensedVolume.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = UnlicensedVolume.icns; sourceTree = "<group>"; };
 		5A416C7F4241148CA32A2354 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416C890A5FECA19F2A6D80 /* RSDP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = RSDP.aml; sourceTree = "<group>"; };
+		5A416C8BF964B25BECABA42C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416C8D680BD660494060BE /* os_win8.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win8.icns; sourceTree = "<group>"; };
 		5A416CAFFB9E12E13E522466 /* HowToInstallOSX.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HowToInstallOSX.txt; sourceTree = "<group>"; };
 		5A416CCC6D0A324AC076FEEE /* bcfg.txt */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text; path = bcfg.txt; sourceTree = "<group>"; };
 		5A416CDF846FD0CF650635DD /* Shell32.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = Shell32.efi; sourceTree = "<group>"; };
 		5A416CEF62457BCC5154BB4B /* OsxFatBinaryDrv-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "OsxFatBinaryDrv-64.efi"; sourceTree = "<group>"; };
 		5A416CF00B85E1F4A3DBB4FD /* cd_mac_snow.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cd_mac_snow.icns; sourceTree = "<group>"; };
+		5A416CF16E32050AF86D1DF8 /* en */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A416D034D9C3400FD48BDB3 /* os_winvista.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_winvista.icns; sourceTree = "<group>"; };
 		5A416D0F0FE1FE0C3C32E52A /* Selection_64px.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = Selection_64px.bmp; sourceTree = "<group>"; };
+		5A416D1C976DD86DCD2655A5 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416D4E05AF5EE6B5CAC8FF /* RSDT-FACP.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "RSDT-FACP.aml"; sourceTree = "<group>"; };
 		5A416D4EA09A371E56DDBC63 /* vol_clover.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_clover.icns; sourceTree = "<group>"; };
 		5A416D92F5B856AB89BECE86 /* func_about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = func_about.png; sourceTree = "<group>"; };
 		5A416DAF27E497B700F2D2CA /* os_ubuntu.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_ubuntu.icns; sourceTree = "<group>"; };
 		5A416DEC678C05F9AD803E3D /* tool_shell.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = tool_shell.icns; sourceTree = "<group>"; };
 		5A416E05927B8BB086B5BE72 /* os_recovery.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_recovery.icns; sourceTree = "<group>"; };
+		5A416E07B3A83DF7DD49B882 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A416E1B8D4A05359EF6DDC6 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416E1D055504736D983206 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
 		5A416E393DAA43829D860D20 /* bdmesg.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = bdmesg.efi; sourceTree = "<group>"; };
 		5A416E53ADD37941FCB62D99 /* RSDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = RSDT.aml; sourceTree = "<group>"; };
 		5A416E5CF87527B4C34F65EE /* selection_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selection_small.png; sourceTree = "<group>"; };
 		5A416E5DCECC5ED01CE3A3FD /* os_suse.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_suse.icns; sourceTree = "<group>"; };
 		5A416E6197F7DE02137EC878 /* os_freebsd.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_freebsd.icns; sourceTree = "<group>"; };
+		5A416E650A445A2B0963709B /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
+		5A416E95FEED153955B3EE26 /* English */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = English; path = License.rtf; sourceTree = "<group>"; };
 		5A416EA1CC83428C5F621762 /* osx.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = osx.icns; sourceTree = "<group>"; };
 		5A416ED27DD5A6058F78531E /* SMCHelper-64.efi */ = {isa = PBXFileReference; lastKnownFileType = file.efi; path = "SMCHelper-64.efi"; sourceTree = "<group>"; };
+		5A416EEF62043586803A2955 /* CodeResources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeResources; sourceTree = "<group>"; };
+		5A416F135B4199079557C2BB /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		5A416F385A50895F2B07D884 /* CoreDisplayFixup */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CoreDisplayFixup; sourceTree = "<group>"; };
 		5A416F58DCD27E9DCC16C91D /* HPET.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = HPET.aml; sourceTree = "<group>"; };
+		5A416F63A1C68507FD8E89F4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416F805B0950A98B5848CF /* os_win7.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_win7.icns; sourceTree = "<group>"; };
+		5A416F90AA5B75DD5F4825DE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416F922565F08EEFA5AE2E /* HowToFixDsdt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HowToFixDsdt.txt; sourceTree = "<group>"; };
+		5A416FA79C6266036D00073E /* support.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = support.txt; sourceTree = "<group>"; };
+		5A416FA9847C69203B2C3670 /* PromiseSTEX */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PromiseSTEX; sourceTree = "<group>"; };
 		5A416FE12A3CCA141362AE33 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416FE7CDB2D2D96431CC54 /* os_unknown.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_unknown.icns; sourceTree = "<group>"; };
+		5A416FEEBCFAF160DCD5A7B3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416FF625F73A4A511F3071 /* SSDT-6-OptTabl.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-6-OptTabl.aml"; sourceTree = "<group>"; };
 		831296C11FC4C0C3006A824D /* Q534UX-POST */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Q534UX-POST"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -248,6 +306,14 @@
 			path = origin;
 			sourceTree = "<group>";
 		};
+		5A4160E5FD8E3BE49D498051 /* AppleBacklightInjector.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A41635D452AF5EE52566777 /* Contents */,
+			);
+			path = AppleBacklightInjector.kext;
+			sourceTree = "<group>";
+		};
 		5A4160E9EDF29B7DBBED1C0A /* Contents */ = {
 			isa = PBXGroup;
 			children = (
@@ -258,12 +324,28 @@
 			path = Contents;
 			sourceTree = "<group>";
 		};
+		5A416106D4857BCE479BAB89 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A416BA18F2CBE9D2BC9A3F1 /* InfoPlist.strings */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
 		5A416123D750076BFABCAFB1 /* VoodooPS2Keyboard.kext */ = {
 			isa = PBXGroup;
 			children = (
 				5A4168A9E7F61985B8913F53 /* Contents */,
 			);
 			path = VoodooPS2Keyboard.kext;
+			sourceTree = "<group>";
+		};
+		5A41615273823FA9291B8A9D /* CalDigitHDProDrv.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416A5A359F1570E9377D4A /* Contents */,
+			);
+			path = CalDigitHDProDrv.kext;
 			sourceTree = "<group>";
 		};
 		5A416174912AD6AB66323086 /* en.lproj */ = {
@@ -282,12 +364,31 @@
 			path = VoodooPS2Mouse.kext;
 			sourceTree = "<group>";
 		};
+		5A41619A84C1BDE8475FC4DD /* intelhaxm.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416288723C02E65172F858 /* Contents */,
+			);
+			path = intelhaxm.kext;
+			sourceTree = "<group>";
+		};
 		5A4161BE687B7EF6C250B5BF /* MacOS */ = {
 			isa = PBXGroup;
 			children = (
 				5A4169CB2DD14422144A0616 /* FakePCIID */,
 			);
 			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416201D41C574C09AC28E3 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41666D4E248EDA5C12C003 /* MacOS */,
+				5A4169C0E6DFBF69E6C2685C /* Resources */,
+				5A4164159D0B429CA51F3E44 /* Info.plist */,
+				5A416FB959D4451ECB28767C /* _CodeSignature */,
+			);
+			path = Contents;
 			sourceTree = "<group>";
 		};
 		5A41622D97BCD807FF111BD1 /* Contents */ = {
@@ -312,6 +413,17 @@
 			path = Other;
 			sourceTree = "<group>";
 		};
+		5A416259B30532C4EEB8CC7E /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C80C5001FFF5D1A0F64 /* MacOS */,
+				5A416FB0C74A8814FCF2FA8D /* Resources */,
+				5A4164F02FAE6CD21740B1F9 /* Info.plist */,
+				5A41678DB47BF65592111730 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
 		5A4162871255BEF37F7FADC7 /* kexts */ = {
 			isa = PBXGroup;
 			children = (
@@ -320,10 +432,102 @@
 			path = kexts;
 			sourceTree = "<group>";
 		};
+		5A416288723C02E65172F858 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4163335E6E1F98FB293671 /* MacOS */,
+				5A41696CD0F1B11DDF07062F /* Resources */,
+				5A416F63A1C68507FD8E89F4 /* Info.plist */,
+				5A416CD95288B16E116EF43B /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4162A007692FA0D12B2FB1 /* HighPointRR.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416EE97E14AD5C0FDE29D0 /* Contents */,
+			);
+			path = HighPointRR.kext;
+			sourceTree = "<group>";
+		};
+		5A4162BC79EDFFA6946BBC4B /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416D7CFF4BEF335573B495 /* MacOS */,
+				5A416F135B4199079557C2BB /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4162E9B39DFA92FB560403 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416E07B3A83DF7DD49B882 /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		5A416319869877F18955E7BD /* English.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A416979459BA309015E45A0 /* InfoPlist.strings */,
+			);
+			path = English.lproj;
+			sourceTree = "<group>";
+		};
+		5A4163335E6E1F98FB293671 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167236A8FA96BFF017374 /* intelhaxm */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4163523D0165D83D5F0E87 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416E650A445A2B0963709B /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		5A41635D452AF5EE52566777 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164ADBB4DA2244170C506 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A41637CDA0CC448E5FFE00E /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41601BED37EBAD831D22EA /* CalDigitHDProDrv */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
 		5A4163EA6A44580404DD1DDC /* MacOS */ = {
 			isa = PBXGroup;
 			children = (
 				5A4164AA76B96F50173E30A5 /* FakeSMC */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A4163F913AEF58F0F819FE7 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4166B093E5C1560BD9EBF9 /* HighPointIOP */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41640950F82B4EF2970DC7 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416F385A50895F2B07D884 /* CoreDisplayFixup */,
 			);
 			path = MacOS;
 			sourceTree = "<group>";
@@ -357,12 +561,52 @@
 			path = drivers64UEFI;
 			sourceTree = "<group>";
 		};
+		5A416429F961B107B7E923CE /* SoftRAID.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416D8DD96CDB13005A6CD9 /* Contents */,
+			);
+			path = SoftRAID.kext;
+			sourceTree = "<group>";
+		};
+		5A416433AD4B73AB8B07EAAF /* ATTOExpressSASRAID2.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4168309990AE16237E5966 /* Contents */,
+			);
+			path = ATTOExpressSASRAID2.kext;
+			sourceTree = "<group>";
+		};
+		5A41649CBC784F09C0953F2B /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416E1D055504736D983206 /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
 		5A41649D8CD18802FD969317 /* FakePCIID.kext */ = {
 			isa = PBXGroup;
 			children = (
 				5A4167235A7C9D4BFB2B0279 /* Contents */,
 			);
 			path = FakePCIID.kext;
+			sourceTree = "<group>";
+		};
+		5A4164A9FB6AE6E01A0ACC91 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				5A416B0623EA503FC11A6B0A /* Extensions */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		5A4164B983FCEB7C15F313BC /* English.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A416CEA98D7A1BEF061FB5A /* InfoPlist.strings */,
+			);
+			path = English.lproj;
 			sourceTree = "<group>";
 		};
 		5A416506070C5D6A22131363 /* origin */ = {
@@ -407,6 +651,14 @@
 				5A4169A4D3579EA2825CCCE5 /* SSDT-x2_4-Cpu0Hwp.aml */,
 			);
 			path = origin;
+			sourceTree = "<group>";
+		};
+		5A4165307405E90A450DAC59 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164403E7780626F92D341 /* ArcMSR */,
+			);
+			path = MacOS;
 			sourceTree = "<group>";
 		};
 		5A41654B63E057F3E5933ED9 /* MacOS */ = {
@@ -466,12 +718,39 @@
 			path = MacOS;
 			sourceTree = "<group>";
 		};
+		5A416605E88737F209E74DCA /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4163F913AEF58F0F819FE7 /* MacOS */,
+				5A4168402EDAE517DB73F578 /* Resources */,
+				5A416C1EFA939D7B5EC9D141 /* Info.plist */,
+				5A416FBD2D46404224751914 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
 		5A4166487229D8CFB7A5C4E6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				5A416174912AD6AB66323086 /* en.lproj */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A416665451F45422BFBE403 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416FA9847C69203B2C3670 /* PromiseSTEX */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41666D4E248EDA5C12C003 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169A2774C20E31A5CFCC0 /* ATTOExpressSASHBA2 */,
+			);
+			path = MacOS;
 			sourceTree = "<group>";
 		};
 		5A41666FEC616C7B6D954413 /* en.lproj */ = {
@@ -482,12 +761,28 @@
 			path = en.lproj;
 			sourceTree = "<group>";
 		};
+		5A4166AC95D743708C0A8420 /* ACS6x.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416A6F774D506E4CE4306E /* Contents */,
+			);
+			path = ACS6x.kext;
+			sourceTree = "<group>";
+		};
 		5A4166ED8E6A2FA16837FDB1 /* random */ = {
 			isa = PBXGroup;
 			children = (
 				5A416AA510BBC5E1AD446A59 /* theme.plist */,
 			);
 			path = random;
+			sourceTree = "<group>";
+		};
+		5A4167088729D0ED2B0A96DC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416F276E3A5FB3E41E411E /* English.lproj */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		5A4167105C43B56595D54197 /* Other */ = {
@@ -506,12 +801,28 @@
 			path = Contents;
 			sourceTree = "<group>";
 		};
+		5A41672DB4FB73FF88654A3F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164B983FCEB7C15F313BC /* English.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5A41674328B72C7D0878352D /* MacOS */ = {
 			isa = PBXGroup;
 			children = (
 				5A41621810710BEE26CBCEE7 /* VoodooPS2Controller */,
 			);
 			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A41678DB47BF65592111730 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416304B1B2D33950EE7AFA /* CodeResources */,
+			);
+			path = _CodeSignature;
 			sourceTree = "<group>";
 		};
 		5A4167D97927C0FD517B9415 /* icons */ = {
@@ -585,12 +896,64 @@
 			path = icons;
 			sourceTree = "<group>";
 		};
+		5A41680D9B042FA55190698F /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4168DFB3BC8D8172895029 /* HighPointRR */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
 		5A41682CE2C0479811194175 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				5A41666FEC616C7B6D954413 /* en.lproj */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A4168309990AE16237E5966 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416DB3A635535236878969 /* MacOS */,
+				5A4169355CDFDF909E0405C6 /* Resources */,
+				5A416F90AA5B75DD5F4825DE /* Info.plist */,
+				5A416870939C7454F1994F5F /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A4168402EDAE517DB73F578 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416D7B2C309F70F6D77396 /* en.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A41684DCE344F91CE66894C /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41640950F82B4EF2970DC7 /* MacOS */,
+				5A416D1C976DD86DCD2655A5 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416870939C7454F1994F5F /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C1C4AB6D492548D0A3B /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		5A41688DD4E274D3A2A60C40 /* ATTOExpressSASHBA2.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416201D41C574C09AC28E3 /* Contents */,
+			);
+			path = ATTOExpressSASHBA2.kext;
 			sourceTree = "<group>";
 		};
 		5A4168A9E7F61985B8913F53 /* Contents */ = {
@@ -610,6 +973,14 @@
 			path = GenericUSBXHCI.kext;
 			sourceTree = "<group>";
 		};
+		5A4169022EA84DC3573797E0 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A4162E7E3FF8DD65B8FD60E /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
 		5A41690DD8BFEC9043910568 /* SystemProductName */ = {
 			isa = PBXGroup;
 			children = (
@@ -622,12 +993,61 @@
 			path = SystemProductName;
 			sourceTree = "<group>";
 		};
+		5A416917C1C2B770410646AD /* ArcMSR.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A41697472FDE160AA691A99 /* Contents */,
+			);
+			path = ArcMSR.kext;
+			sourceTree = "<group>";
+		};
+		5A4169355CDFDF909E0405C6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165F9B424FA175FA01A3C /* mediasas.icns */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5A416942DD59D7F2BDDF0442 /* kexts */ = {
 			isa = PBXGroup;
 			children = (
 				5A41623379493750D9225A55 /* Other */,
 			);
 			path = kexts;
+			sourceTree = "<group>";
+		};
+		5A41696CD0F1B11DDF07062F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A41692209F7FD6FFA457E01 /* readme */,
+				5A416FA79C6266036D00073E /* support.txt */,
+				5A41671CEDF88C7F0979B11D /* uninstall.sh */,
+				5A416C1C1F3B6E8D806D193D /* English.lproj */,
+				5A4169F330389E5C4181E962 /* haxm_start.sh */,
+				5A4166A71C02F49464006035 /* haxm-isRunning */,
+				5A4168A15A1585C4B079A380 /* haxm_configure */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A41697472FDE160AA691A99 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4165307405E90A450DAC59 /* MacOS */,
+				5A41672DB4FB73FF88654A3F /* Resources */,
+				5A416C8BF964B25BECABA42C /* Info.plist */,
+				5A416A1B6B1D1534D8D12A89 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A41697854C2C0B519B56CA3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C28DB2EEA439AD386D3 /* PROMISE.icns */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		5A416978C3FD774CFC5753AB /* MacOS */ = {
@@ -648,6 +1068,14 @@
 			path = Contents;
 			sourceTree = "<group>";
 		};
+		5A4169C0E6DFBF69E6C2685C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A41622F709F49EA363FF203 /* mediasas.icns */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5A4169CDF05D54475DABD411 /* WINDOWS */ = {
 			isa = PBXGroup;
 			children = (
@@ -662,6 +1090,14 @@
 				5A4162517F5F8339BF4DACDD /* screenshot.png */,
 			);
 			path = embedded;
+			sourceTree = "<group>";
+		};
+		5A4169F1B9A6BE635403DF64 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41669D72108B7579DA3AC7 /* SoftRAID */,
+			);
+			path = MacOS;
 			sourceTree = "<group>";
 		};
 		5A416A08240B0B34AB537BB9 /* tools */ = {
@@ -684,6 +1120,14 @@
 			path = VoodooPS2Controller.kext;
 			sourceTree = "<group>";
 		};
+		5A416A1B6B1D1534D8D12A89 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A4164F2030F3AF0E0F19465 /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
 		5A416A51BD561692872804AD /* FakeSMC.kext */ = {
 			isa = PBXGroup;
 			children = (
@@ -692,12 +1136,65 @@
 			path = FakeSMC.kext;
 			sourceTree = "<group>";
 		};
+		5A416A5A359F1570E9377D4A /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41637CDA0CC448E5FFE00E /* MacOS */,
+				5A4167088729D0ED2B0A96DC /* Resources */,
+				5A41696526B1CA54A6BD6D01 /* Info.plist */,
+				5A41649CBC784F09C0953F2B /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416A6F774D506E4CE4306E /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416ECF8D20E29202E016FF /* MacOS */,
+				5A416C466487A0674E28EB89 /* Resources */,
+				5A41630CDA86B59B7063D494 /* Info.plist */,
+				5A416CAE20E72EC36C9C3263 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
 		5A416A7EDBB058F728DA3488 /* patched */ = {
 			isa = PBXGroup;
 			children = (
 				5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */,
 			);
 			path = patched;
+			sourceTree = "<group>";
+		};
+		5A416ADCC6EE375C75BEA905 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416DDA0AC7452DA258B2D1 /* MacOS */,
+				5A416FEEBCFAF160DCD5A7B3 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416B0623EA503FC11A6B0A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5A4166AC95D743708C0A8420 /* ACS6x.kext */,
+				5A416433AD4B73AB8B07EAAF /* ATTOExpressSASRAID2.kext */,
+				5A41615273823FA9291B8A9D /* CalDigitHDProDrv.kext */,
+				5A416917C1C2B770410646AD /* ArcMSR.kext */,
+				5A4160E5FD8E3BE49D498051 /* AppleBacklightInjector.kext */,
+				5A41688DD4E274D3A2A60C40 /* ATTOExpressSASHBA2.kext */,
+				5A416E97939C9B3842C19B55 /* ATTOCelerityFC8.kext */,
+				5A416B87157BF9EF6266589C /* Lilu.kext */,
+				5A41619A84C1BDE8475FC4DD /* intelhaxm.kext */,
+				5A416429F961B107B7E923CE /* SoftRAID.kext */,
+				5A416BC872EA98F2E2B8F072 /* PromiseSTEX.kext */,
+				5A416E93D3016321CE5E6F67 /* HighPointIOP.kext */,
+				5A416C570198FF38AF55B921 /* CoreDisplayFixup.kext */,
+				5A416FB9B06B3901C6540756 /* IntelGraphicsFixup.kext */,
+				5A4162A007692FA0D12B2FB1 /* HighPointRR.kext */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		5A416B066589DA2F33B4BCD0 /* RealtekRTL8111.kext */ = {
@@ -749,6 +1246,14 @@
 			path = scrollbar;
 			sourceTree = "<group>";
 		};
+		5A416B87157BF9EF6266589C /* Lilu.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A4162BC79EDFFA6946BBC4B /* Contents */,
+			);
+			path = Lilu.kext;
+			sourceTree = "<group>";
+		};
 		5A416BA906FEFD73D1855D0A /* MacOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -766,11 +1271,28 @@
 			path = Contents;
 			sourceTree = "<group>";
 		};
+		5A416BC872EA98F2E2B8F072 /* PromiseSTEX.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416DF4B923E96F4AD991EB /* Contents */,
+			);
+			path = PromiseSTEX.kext;
+			sourceTree = "<group>";
+		};
 		5A416C0A4D0A1F23069D5003 /* patched */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = patched;
+			sourceTree = "<group>";
+		};
+		5A416C1C1F3B6E8D806D193D /* English.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167FC132C2C7341A220DA /* License.rtf */,
+				5A416A5BC2A4F46C148C7F18 /* InfoPlist.strings */,
+			);
+			path = English.lproj;
 			sourceTree = "<group>";
 		};
 		5A416C2B1EB48379E9C17538 /* PlugIns */ = {
@@ -783,6 +1305,30 @@
 			path = PlugIns;
 			sourceTree = "<group>";
 		};
+		5A416C466487A0674E28EB89 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416319869877F18955E7BD /* English.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A416C570198FF38AF55B921 /* CoreDisplayFixup.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A41684DCE344F91CE66894C /* Contents */,
+			);
+			path = CoreDisplayFixup.kext;
+			sourceTree = "<group>";
+		};
+		5A416C80C5001FFF5D1A0F64 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169D7B9D1C1F382691F1D /* ATTOCelerityFC8 */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
 		5A416C9ABDAFE79182934C7F /* Contents */ = {
 			isa = PBXGroup;
 			children = (
@@ -790,6 +1336,22 @@
 				5A416C7F4241148CA32A2354 /* Info.plist */,
 			);
 			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416CAE20E72EC36C9C3263 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416EEF62043586803A2955 /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		5A416CD95288B16E116EF43B /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C222AD929A0438268BA /* CodeResources */,
+			);
+			path = _CodeSignature;
 			sourceTree = "<group>";
 		};
 		5A416D607281E0A98DDD1D27 /* AtherosE2200Ethernet.kext */ = {
@@ -805,6 +1367,68 @@
 			children = (
 				5A416978C3FD774CFC5753AB /* MacOS */,
 				5A416FE12A3CCA141362AE33 /* Info.plist */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416D7B2C309F70F6D77396 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A4166ADB07EA467E92F24C2 /* InfoPlist.strings */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		5A416D7CFF4BEF335573B495 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41632355B265AB14E672DC /* Lilu */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416D868439A38F9C2892C0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416C6DD284467FEDA78D7E /* UnlicensedVolume.icns */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A416D8DD96CDB13005A6CD9 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169F1B9A6BE635403DF64 /* MacOS */,
+				5A416D868439A38F9C2892C0 /* Resources */,
+				5A416538767650EF0A54CEF8 /* Info.plist */,
+				5A4169022EA84DC3573797E0 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		5A416DB3A635535236878969 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A4167C8DF9BC79F18FDAA51 /* ATTOExpressSASRAID2 */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416DDA0AC7452DA258B2D1 /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A41665F0AB4E5283A59A3A5 /* IntelGraphicsFixup */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416DF4B923E96F4AD991EB /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A416665451F45422BFBE403 /* MacOS */,
+				5A41697854C2C0B519B56CA3 /* Resources */,
+				5A41665CCDEC2843536590F6 /* Info.plist */,
+				5A4163523D0165D83D5F0E87 /* _CodeSignature */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -839,6 +1463,41 @@
 			path = FakePCIID_Intel_HD_Graphics.kext;
 			sourceTree = "<group>";
 		};
+		5A416E93D3016321CE5E6F67 /* HighPointIOP.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416605E88737F209E74DCA /* Contents */,
+			);
+			path = HighPointIOP.kext;
+			sourceTree = "<group>";
+		};
+		5A416E97939C9B3842C19B55 /* ATTOCelerityFC8.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416259B30532C4EEB8CC7E /* Contents */,
+			);
+			path = ATTOCelerityFC8.kext;
+			sourceTree = "<group>";
+		};
+		5A416ECF8D20E29202E016FF /* MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				5A416B5561E9B469E5C71FB1 /* ACS6x */,
+			);
+			path = MacOS;
+			sourceTree = "<group>";
+		};
+		5A416EE97E14AD5C0FDE29D0 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				5A41680D9B042FA55190698F /* MacOS */,
+				5A416EFD4E4B02A927D12E4F /* Resources */,
+				5A416018FC15648AD796C30E /* Info.plist */,
+				5A4162E9B39DFA92FB560403 /* _CodeSignature */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
 		5A416EF462649A226EDDF52D /* ACPI */ = {
 			isa = PBXGroup;
 			children = (
@@ -846,6 +1505,22 @@
 				5A416E4553EA09B916644BB1 /* patched */,
 			);
 			path = ACPI;
+			sourceTree = "<group>";
+		};
+		5A416EFD4E4B02A927D12E4F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A416106D4857BCE479BAB89 /* en.lproj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A416F276E3A5FB3E41E411E /* English.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5A4169E721F4C46E87AF0101 /* InfoPlist.strings */,
+			);
+			path = English.lproj;
 			sourceTree = "<group>";
 		};
 		5A416F813B262581995F092F /* ROM */ = {
@@ -861,6 +1536,38 @@
 				5A4167105C43B56595D54197 /* Other */,
 			);
 			path = kexts;
+			sourceTree = "<group>";
+		};
+		5A416FB0C74A8814FCF2FA8D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A41620EEA99BA4E5D9D3D7A /* mediafc.icns */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5A416FB959D4451ECB28767C /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A41613F8EEEC734BF4443A4 /* CodeResources */,
+			);
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		5A416FB9B06B3901C6540756 /* IntelGraphicsFixup.kext */ = {
+			isa = PBXGroup;
+			children = (
+				5A416ADCC6EE375C75BEA905 /* Contents */,
+			);
+			path = IntelGraphicsFixup.kext;
+			sourceTree = "<group>";
+		};
+		5A416FBD2D46404224751914 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				5A41698E080E4FEEBFA63D58 /* CodeResources */,
+			);
+			path = _CodeSignature;
 			sourceTree = "<group>";
 		};
 		5A416FD4B3FC3FC4D1130A2B /* ACPI */ = {
@@ -900,6 +1607,7 @@
 				5A416A08240B0B34AB537BB9 /* tools */,
 				5A4164133F19A27700B31080 /* ACPI */,
 				5A416698376F4518ACA89DA1 /* config.plist */,
+				5A4164A9FB6AE6E01A0ACC91 /* Library */,
 			);
 			path = "Q534UX-POST";
 			sourceTree = "<group>";
@@ -981,6 +1689,62 @@
 				5A41639A3CA8E162527355EB /* en */,
 			);
 			name = InfoPlist.strings.txt;
+			sourceTree = "<group>";
+		};
+		5A4166ADB07EA467E92F24C2 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A416CF16E32050AF86D1DF8 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5A4167FC132C2C7341A220DA /* License.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A416E95FEED153955B3EE26 /* English */,
+			);
+			name = License.rtf;
+			sourceTree = "<group>";
+		};
+		5A416979459BA309015E45A0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A4162257773F7EA28FF4F54 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5A4169E721F4C46E87AF0101 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A41657B09A73F38CA8BA153 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5A416A5BC2A4F46C148C7F18 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A4166C65B7A727713C06B90 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5A416BA18F2CBE9D2BC9A3F1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A4165B01EC409E646DCD65C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5A416CEA98D7A1BEF061FB5A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5A416AFF7B12B8EDD02660EA /* English */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

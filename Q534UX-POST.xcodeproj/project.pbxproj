@@ -85,7 +85,6 @@
 		5A41659712B3C48318471769 /* FPDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FPDT.aml; sourceTree = "<group>"; };
 		5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-DiscreteSpoof.aml"; sourceTree = "<group>"; };
 		5A4165E1813C342DE237D0CB /* vol_internal_ntfs_31.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_31.icns; sourceTree = "<group>"; };
-		5A416600B5290FF1F670F206 /* config_620.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = config_620.plist; sourceTree = "<group>"; };
 		5A41662173B4286601F5EE56 /* os_leo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_leo.icns; sourceTree = "<group>"; };
 		5A416639FA61CD408AA6F6F1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		5A416643BE187A02EA9C4DCA /* pointer-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pointer-green.png"; sourceTree = "<group>"; };
@@ -901,7 +900,6 @@
 				5A416A08240B0B34AB537BB9 /* tools */,
 				5A4164133F19A27700B31080 /* ACPI */,
 				5A416698376F4518ACA89DA1 /* config.plist */,
-				5A416600B5290FF1F670F206 /* config_620.plist */,
 			);
 			path = "Q534UX-POST";
 			sourceTree = "<group>";

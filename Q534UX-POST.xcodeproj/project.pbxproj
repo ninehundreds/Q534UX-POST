@@ -101,7 +101,7 @@
 		5A41657B09A73F38CA8BA153 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A41659712B3C48318471769 /* FPDT.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = FPDT.aml; sourceTree = "<group>"; };
 		5A4165A70EA2EB57E193605D /* SSDT-DiscreteSpoof.aml */ = {isa = PBXFileReference; lastKnownFileType = file.aml; path = "SSDT-DiscreteSpoof.aml"; sourceTree = "<group>"; };
-		5A4165B01EC409E646DCD65C /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		5A4165B01EC409E646DCD65C /* en */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
 		5A4165E1813C342DE237D0CB /* vol_internal_ntfs_31.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = vol_internal_ntfs_31.icns; sourceTree = "<group>"; };
 		5A4165F9B424FA175FA01A3C /* mediasas.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = mediasas.icns; sourceTree = "<group>"; };
 		5A41662173B4286601F5EE56 /* os_leo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = os_leo.icns; sourceTree = "<group>"; };
